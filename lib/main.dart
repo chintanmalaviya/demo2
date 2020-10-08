@@ -28,7 +28,7 @@ class MyAppState extends State<MyApp>{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Animated Container Che"),
+        title: Text("Animated Container"),
       ),
       body: Center(
         child: Column(
